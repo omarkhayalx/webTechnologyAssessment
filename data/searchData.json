@@ -1,0 +1,4 @@
+[
+  { "query": "T-shirt", "expectedResults": 3 },
+  { "query": "Jacket", "expectedResults": 1 }
+]
